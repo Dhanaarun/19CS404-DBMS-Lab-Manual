@@ -1,4 +1,4 @@
-# Experiment 4: Aggregate Functions, Group By and Having Clause
+[# Experiment 4: Aggregate Functions, Group By and Having Clause
 
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
@@ -237,3 +237,4 @@ HAVING SUM(workhour) > 20;
 
 ## RESULT
 Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
+](https://github.com/Dhanaarun/19CS404-DBMS-Lab-Manual/blob/main/README.md)
